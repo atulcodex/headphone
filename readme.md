@@ -1,6 +1,6 @@
 ### Headphone single page website template
 
-![Headphone single page website template](https://i.ibb.co/wdNyQ9G/headphone-preview.gif)
+![Headphone single page website template](https://github.com/atulcodex/headphone/blob/main/headphone-preview.gif)
 
 Headphone – Single Product Shop HTML CSS Theme is an elegantly designed and versatile Product theme that gives you smartly optimized page layouts and sections so you can easily create a stunning Product store for a single product. It incorporates a clean and modern design to give your website a professional look in little to no time.
 
